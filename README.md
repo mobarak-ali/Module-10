@@ -2,8 +2,11 @@
 https://mobarak-ali.github.io/module-10/
 
 ## 10-1 Panda commerce overview and project setup
-http://127.0.0.1:5500/lesson-01.html
+https://mobarak-ali.github.io/module-10/lesson-01.html
 ## 10-2 Container, set navbar, top banner carousel, image size
-http://127.0.0.1:5500/lesson-02.html
+https://mobarak-ali.github.io/module-10/lesson-02.html
 ## 10-3 Categories, gutters, flex vertical center and sound space
+https://mobarak-ali.github.io/module-10/lesson-03.html
+## 10-4 Shoe shopping card, card-group, card shadow
+https://mobarak-ali.github.io/module-10/lesson-04.html
 
