@@ -9,4 +9,6 @@ https://mobarak-ali.github.io/module-10/lesson-02.html
 https://mobarak-ali.github.io/module-10/lesson-03.html
 ## 10-4 Shoe shopping card, card-group, card shadow
 https://mobarak-ali.github.io/module-10/lesson-04.html
+## 10-5 Backpack category, card footer, align button
+https://mobarak-ali.github.io/module-10/lesson-05.html
 
