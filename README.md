@@ -13,4 +13,6 @@ https://mobarak-ali.github.io/module-10/lesson-04.html
 https://mobarak-ali.github.io/module-10/lesson-05.html
 ## 10-6 Subscribe section, horizontal and vertical center
 https://mobarak-ali.github.io/module-10/lesson-06.html
+## 10-7 Footer, text center, carousel item Vertical center
+https://mobarak-ali.github.io/module-10/lesson-07.html
 
