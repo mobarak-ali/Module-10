@@ -11,4 +11,6 @@ https://mobarak-ali.github.io/module-10/lesson-03.html
 https://mobarak-ali.github.io/module-10/lesson-04.html
 ## 10-5 Backpack category, card footer, align button
 https://mobarak-ali.github.io/module-10/lesson-05.html
+## 10-6 Subscribe section, horizontal and vertical center
+https://mobarak-ali.github.io/module-10/lesson-06.html
 
